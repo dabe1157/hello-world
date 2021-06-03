@@ -1,3 +1,5 @@
 This is a second file ot add to my repository.
 
-I am makin gthis as a test.
+I am making this as a test.
+
+Now i am adding a third line to differentiate from main.
